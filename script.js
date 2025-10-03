@@ -28,7 +28,7 @@ const story = {
   },
   cuidadosNaPraia: {
     text: "Você se protegeu bem! Isso reduz muito os riscos de câncer de pele no futuro. Parabéns por cuidar da sua saúde!",
-    image: "c3,png",
+    image: "c5.png",
     choices: []
   },
   exposicaoExcessiva: {
@@ -77,3 +77,4 @@ function showScene(sceneKey) {
   }
 }
 showScene("start");
+
